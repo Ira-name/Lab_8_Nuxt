@@ -1,8 +1,11 @@
 <template>
   <div>
-    <StudentsList/>
+    <ProductsList />
+    <Graphs/>
   </div>
 </template>
 <script setup lang="ts">
-import StudentsList from "~/pages/StudentsList.vue";
+import ProductsList from "~/pages/ProductsList.vue";
+import Graphs from "~/pages/Graphs.vue";
+
 </script>
