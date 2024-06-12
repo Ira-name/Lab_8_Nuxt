@@ -37,13 +37,12 @@ const {data, pending} = await useLazyAsyncData<any>(
 let products = data.value.products;
 
 const page = ref(1)
-const pageCount = 5
+const pageCount = 4
 
 const q = ref('')
 const rows = computed(() => {
   if (!q.value) {
     return products.slice((page.value - 1) * pageCount, (page.value) * pageCount)
-
   }
 
   return products.filter((product: any) => {
