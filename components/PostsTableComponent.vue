@@ -51,7 +51,6 @@
                                     <td>{{ post.published_at }}
 
                                     </td>
-
                                 </tr>
 
                             </tbody>
