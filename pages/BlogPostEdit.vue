@@ -5,7 +5,7 @@
   </template>
   
   <script setup lang="ts">
-  import PostEdit from '~/components/PostEdit.vue';
+  import PostEdit from '~/components/post/PostEdit.vue';
   
   </script>
   

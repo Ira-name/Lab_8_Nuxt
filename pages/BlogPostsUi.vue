@@ -5,5 +5,5 @@
 </template>
 
 <script setup lang="ts">
-import PostsTableComponentUI from '~/components/PostsTableComponentUI.vue';
+import PostsTableComponentUI from '~/components/post/PostsTableComponentUI.vue';
 </script>

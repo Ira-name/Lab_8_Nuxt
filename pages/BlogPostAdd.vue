@@ -5,7 +5,7 @@
   </template>
   
   <script setup lang="ts">
-  import PostAdd from '~/components/PostAdd.vue';
+  import PostAdd from '~/components/post/PostAdd.vue';
   
   </script>
   
