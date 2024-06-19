@@ -1,7 +1,6 @@
 <template>
   <div class="w-1/3 m-auto">
     <div class="p-5">
-      <!-- <nuxt-link class="mt-20 bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded" to="/posts">Back</nuxt-link> -->
     </div>
     <div class="p-5 border-2 rounded">
       <h1 class="text-center mb-2">Create post</h1>
