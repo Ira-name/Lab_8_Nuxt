@@ -5,6 +5,9 @@
       <router-link to="/BlogPostsUi" class="nav-link">
       <button class="btn-nav">BlogPostsUi</button>
     </router-link>
+    <router-link to="/BlogCategory" class="nav-link">
+      <button class="btn-nav">BlogCategory</button>
+    </router-link>
     </nav>
     <NuxtPage />
   </div>
